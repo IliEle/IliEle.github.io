@@ -5,16 +5,18 @@ description: AI Code of Conduct
 bodyClass: page-about
 ---
 
-<!-- ![Accounting Services](/images/thom-holmes-Lrfw0U_o9I0-unsplash.jpg) -->
-
 # Overview
-Given the novelty of generative Artificial Intelligence (AI) tools we have produced this supplementary guidance to navigate how generative AI tools should be used. This document presents a set of ground rules to safeguard students and empower educators to incorporate the use of generative tools in the learning journey, including assessment. This is a live document and will be updated on an ongoing basis to reflect the rapidly evolving changes and advancements in the technological landscape. Any feedback is more than welcome, please contact: [iliada.eleftheriou@manchester.ac.uk](mailto:iliada.eleftheriou@manchester.ac.uk). 
+
+Given the novelty of generative Artificial Intelligence (AI) tools we have produced this supplementary guidance to navigate how generative AI tools should be used. This document presents a set of ground rules to safeguard students and empower educators to incorporate the use of generative tools in the learning journey, including assessment. 
+
+This is a live document and will be updated on an ongoing basis to reflect the rapidly evolving changes and advancements in the technological landscape. Any feedback is more than welcome, please contact: [iliada.eleftheriou@manchester.ac.uk](mailto:iliada.eleftheriou@manchester.ac.uk). 
 
 ## Students: 
 By using generative AI tools in your learning process (including assessment) you agree to follow the ground rules and ethical framework as stated in section ‘AI Code of Conduct’ in this live document.
 
 ## Educators: 
-Feel free to adopt and adapt any sections from this Code to best fit your module and needs. Attribution must be given to **Iliada Eleftheriou** for the Code of Conduct and **Ajmal Mubarik** for the ethical framework – see below. We would appreciate it if you could spend a few minutes and let us know how you have used or adapted this Code, and your feedback/views by either emailing iliada.eleftheriou@manchester.ac.uk or completing this short (5 questions) [questionnaire.](https://www.qualtrics.manchester.ac.uk/jfe/form/SV_8GFU7eY8C4W53My){:target="_blank"}
+Feel free to adopt and adapt any sections from this Code to best fit your module and needs. Attribution must be given to **Iliada Eleftheriou** for the Code of Conduct and **Ajmal Mubarik** for the ethical framework – see below. 
+> We would appreciate it if you could spend a few minutes and let us know how you have used or adapted this Code, and your feedback/views by either emailing iliada.eleftheriou@manchester.ac.uk or completing this short (5 questions) [questionnaire.](https://www.qualtrics.manchester.ac.uk/jfe/form/SV_8GFU7eY8C4W53My){:target="_blank"}
 If you opt to give us your email address, we will contact you with the updated versions of this document. Any feedback is more than welcome.   
 <div style="text-align:center"><img src="/images/aicode/QR_code.png" /></div>
 
