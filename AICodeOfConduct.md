@@ -34,19 +34,29 @@ Last updated: August 2023
 Date created: February 2023
 
 ## Table of Contents
-Can I use AI-generative tools in this unit?  
-What are generative AI tools?  
-Academic malpractice  
-Limitations of AI-generative tools  
-AI Code of Conduct  
-Tier I: Guidance for individual use of generative AI tools  
-Tier II: Ground rules for using generative AI in the learning journey and assessment  
-Tier III: AI Ethical Framework  
-How to cite and reference ChatGPT?  
-Working example 1  
-Checklist of guidelines:  
-Guidance for Educators:  
-Acknowledgements:  
+- [Overview](#overview)
+  - [Students](#students)
+  - [Educators](#educators)  
+    - [Authors and attribution](#authors-and-attribution:)
+    - [Methods and evaluation:](#methods-and-evaluation:)
+- [Can I use AI-generative tools in this unit? ](#can-i-use-ai-generative-tools-in-this-unit)
+- [What are generative AI tools? ](#what-are-generative-ai-tools)
+- [Academic malpractice](#academic-malpractice)
+- [Limitations of AI-generative tools](#limitations-of-ai-generative-tools)
+- [AI Code of Conduct](#ai-code-of-conduct)
+   - [Tier I: Guidance for individual use of generative AI tools](#tier-i:-guidance-for-individual-use-of-generative-ai-tools)
+   - [Tier II: Ground rules for using generative AI in the learning journey and assessment](#tier-ii:-ground-rules-for-using-generative-ai-in-the-learning-journey-and-assessment)
+   - [Tier III: AI Ethical Framework](#tier-iii:-ai-ethical-framework)
+     - [Ethical principles for use of generative AI tools:  ](#ethical-principles-for-use-of-generative-ai-tools:-)
+- [How to cite and reference ChatGPT?](#how-to-cite-and-reference-chatgpt)
+   - [Example using Harvard referencing: ](#example-using-harvard-referencing:)
+   - [Bibtex example format, for latex users: ](#bibtex-example-format,-for-latex-users:)
+- [Working example 1](#working-example-1)
+   - [How does ChatGPT work and why does it lie? ](#how-does-chatgpt-work-and-why-does-it-lie)
+- [Checklist of guidelines ](#checklist-of-guidelines)
+- [Guidance for Educators](#guidance-for-educators)
+- [Acknowledgements](#acknowledgements)
+- [Versions](#versions)
 
 
 # Can I use AI-generative tools in this unit? 
