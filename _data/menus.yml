@@ -1,12 +1,12 @@
 main:
-  - name: "Services"
-    url: "/services/"
+  - name: "Blog posts"
+    url: "/blogposts/"
     weight: 2
-  - name: "Team"
-    url: "/team/"
+  - name: "Bio"
+    url: "/bio/"
     weight: 3
-  - name: "About"
-    url: "/about/"
+  - name: "AI Code of Conduct"
+    url: "/AICodeOfConduct/"
     weight: 4
   - name: "Contact"
     url: "/contact/"
