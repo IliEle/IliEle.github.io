@@ -3,11 +3,11 @@ permalink: pretty
 title: 'Iliada Eleftheriou'
 
 logo:
-  mobile: "images/logo/logo-mobile.svg"
+  mobile: "images/logo.png"
   mobile_height: "32px"
   mobile_width: "32px"
   desktop: "images/logo/logo.png"
-  desktop_height: "50px"
+  desktop_height: "35px"
   desktop_width: "140px"
 
 home: 
@@ -17,7 +17,7 @@ collections:
   services:
     output: true
     sort_by: weight
-  team:
+  downloads:
     output: true
 
 defaults:

@@ -14,5 +14,5 @@ The second tier provides ground rules for use of generative AI tools in the **le
 
 The third tier provides four ethical principles to consider and implement when using generative AI tools, especially when **developing new applications** using these tools, or when **disseminating outputs** in a wider audience. 
 
-The updated AI Code of Conduct can be found [here](https://www.iliada-eleftheriou.com/AICodeOfConduct/). 
+The updated AI Code of Conduct can be found [here](/AICodeOfConduct/). 
 <!-- todo: fix link  -->

@@ -11,13 +11,13 @@
 // $steel: #5c5a5a;
 
 // Colors
-$primary: #123C69;
+$primary: #123C69; //actions, menu, footer
 $primary-dark: #AC3B61;
-$secondary: #557A95;
-$black: #2f2f41;
-$white: #ffffff; 
-$white-offset: #BAB2B5;
-$steel: #5c5a5a;
+$secondary: #AC3B61;
+$black: #10345c; //title of pages  #2F4454
+$white: #ffffff; //background
+$white-offset: #E3E2DF; //boxes
+$steel: #242424; //text colour
 
 // Links
 $link-color: $primary;
@@ -26,8 +26,9 @@ $link-hover-color: lighten($primary, 10%);
 $link-hover-decoration: underline;
 
 // Fonts
-$font-family-base: Roboto, Arial, sans-serif, -apple-system;
-$font-family-heading: Roboto, serif, -apple-system; //"Playfair Display", serif, -apple-system;
+$font-family-base: Helvetica-Neue, Arial, sans-serif, -apple-system; // <p> and headings and menu
+$font-family-heading: Roboto, serif, -apple-system; // titles 
+
 
 // Footer
 $footer-background-color: $primary;
@@ -75,7 +76,7 @@ body {
   line-height: 1.2;
   font-family: $font-family-base;
   @include media-breakpoint-up(md) {
-    font-size: 16px;
+    font-size: 18px;
     line-height: 1.3;
   }
 }
