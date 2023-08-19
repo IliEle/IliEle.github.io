@@ -18,14 +18,15 @@ By using generative AI tools in your learning process (including assessment) you
 Feel free to adopt and adapt any sections from this Code to best fit your module and needs. Attribution must be given to **Iliada Eleftheriou** for the Code of Conduct and **Ajmal Mubarik** for the ethical framework – see below. 
 > We would appreciate it if you could spend a few minutes and let us know how you have used or adapted this Code, and your feedback/views by either emailing [iliada.eleftheriou@manchester.ac.uk](mailto:iliada.eleftheriou@manchester.ac.uk) or completing this short (5 questions) [anonymous questionnaire.](https://www.qualtrics.manchester.ac.uk/jfe/form/SV_8GFU7eY8C4W53My){:target="_blank"}
 If you opt to give us your email address, we will contact you with the updated versions of this document. Any feedback is more than welcome.   
-<div style="text-align:center"><img src="/images/aicode/QR_code.png" /></div>
+<div style="text-align:center"><img src="/images/aicode/QR_code.png" /><br><a href="https://www.qualtrics.manchester.ac.uk/jfe/form/SV_8GFU7eY8C4W53My" target="_blank">Let us know what you think</a></div>
+
 
 ### Authors and attribution: 
-The AI Code of Conduct has been created by **Dr Iliada Eleftheriou**, Senior Lecturer at the University of Manchester. The ethical framework has been co-created with students enrolled in the [UCIL20122 AI: Robot Overlord, Replacement or Colleague?](https://www.college.manchester.ac.uk/units/?year=2023&semester=2&course=474){:target="_blank"} unit (Feb 2023 cohort) and synthesised by **Ajmal Mubarik**, Teaching Fellow in interdisciplinary ethics, The University of Manchester. 
+The AI Code of Conduct has been created by **Dr Iliada Eleftheriou**, Senior Lecturer at the University of Manchester. The ethical framework has been co-created with students enrolled in the UCIL20122 'AI: Robot Overlord, Replacement or Colleague?' unit (Feb 2023 cohort) and synthesised by **Ajmal Mubarik**, Teaching Fellow in interdisciplinary ethics, The University of Manchester. 
 > **Attribution:** The AI Code of Conduct has been created by Dr Iliada Eleftheriou and Ajmal Mubarik, The University of Manchester (DOI: xxx , [https://www.iliada-eleftheriou.com/AICodeOfConduct/](https://www.iliada-eleftheriou.com/AICodeOfConduct/){:target="_blank"})
 
 ### Methods and evaluation:
-A mixed-methods evaluation study has been conducted to map the current policy landscape evaluate the adoption and usefulness of the Code, and understand students’ behaviour, workflows, and perspectives on the use of generative AI tools in higher education. A review of the literature identified a gap in the policy landscape on guidelines for proper and safe use of these tools. A cohort of 91 interdisciplinary mixed-level undergraduate students enrolled in the UCIL unit of ‘AI: Robot Overlord, Replacement or Colleague?’ participated in two evaluation studies; a group-based questionnaire and an anonymous survey. A thematic analysis on the participants’ responses resulted in the co-creation of an ethical framework that has been incorporated in the Code and protects students’ autonomy, fosters transparency, explainability, responsibility and accountability for any outputs, and promotes inclusiveness and equity. 
+A mixed-methods evaluation study has been conducted to map the current policy landscape evaluate the adoption and usefulness of the Code, and understand students’ behaviour, workflows, and perspectives on the use of generative AI tools in higher education. A review of the literature identified a gap in the policy landscape on guidelines for proper and safe use of these tools. A cohort of 91 interdisciplinary mixed-level undergraduate students enrolled in the UCIL unit of [AI: Robot Overlord, Replacement or Colleague?](https://www.college.manchester.ac.uk/units/?year=2023&semester=2&course=474){:target="_blank"} participated in two evaluation studies; a group-based questionnaire and an anonymous survey. A thematic analysis on the participants’ responses resulted in the co-creation of an ethical framework that has been incorporated in the Code and protects students’ autonomy, fosters transparency, explainability, responsibility and accountability for any outputs, and promotes inclusiveness and equity. 
 
 Results [^1] showed that the majority of students (88%) have been using these tools in their learning, including assessment (52%). Students believe that generative AI tools can improve the generation of ideas and arguments (82.4%), make writing (64.7%) and research (79.4%) more efficient, speed up the overall learning process (76.5%), increase overall quality of a submission (58.5%), and knowledge on the assignment’s topic (70.6%). The majority of the students have adopted the code (81%) and believe that the Code of Conduct is ‘fair’, ‘very useful’, ‘reasonable’, and ‘gives us a formal and ethical way of utilising AI tools’. Students valued being trusted with use of this new technology, do not want to compromise their learning and education and are particularly keen to ensure that institutions provide them with the skills they will need in their future careers. Results showed that the permitted, educated and transparent use of generative AI tools has fostered a critical approach to their use and recognition of their limitations.
 
@@ -39,20 +40,20 @@ Date created: February 2023
 - [Overview](#overview)
   - [Students](#students)
   - [Educators](#educators)  
-    - [Authors and attribution](#authors-and-attribution:)
-    - [Methods and evaluation:](#methods-and-evaluation:)
+    - [Authors and attribution](#authors-and-attribution)
+    - [Methods and evaluation:](#methods-and-evaluation)
 - [Can I use AI-generative tools in this unit? ](#can-i-use-ai-generative-tools-in-this-unit)
 - [What are generative AI tools? ](#what-are-generative-ai-tools)
 - [Academic malpractice](#academic-malpractice)
 - [Limitations of AI-generative tools](#limitations-of-ai-generative-tools)
 - [AI Code of Conduct](#ai-code-of-conduct)
-   - [Tier I: Guidance for individual use of generative AI tools](#tier-i:-guidance-for-individual-use-of-generative-ai-tools)
-   - [Tier II: Ground rules for using generative AI in the learning journey and assessment](#tier-ii:-ground-rules-for-using-generative-ai-in-the-learning-journey-and-assessment)
-   - [Tier III: AI Ethical Framework](#tier-iii:-ai-ethical-framework)
-     - [Ethical principles for use of generative AI tools:  ](#ethical-principles-for-use-of-generative-ai-tools:-)
+   - [Tier I: Guidance for individual use of generative AI tools](#tier-i-guidance-for-individual-use-of-generative-ai-tools)
+   - [Tier II: Ground rules for using generative AI in the learning journey and assessment](#tier-ii-ground-rules-for-using-generative-ai-in-the-learning-journey-and-assessment)
+   - [Tier III: AI Ethical Framework](#tier-iii-ai-ethical-framework)
+     - [Ethical principles for use of generative AI tools](#ethical-principles-for-use-of-generative-ai-tools)
 - [How to cite and reference ChatGPT?](#how-to-cite-and-reference-chatgpt)
-   - [Example using Harvard referencing: ](#example-using-harvard-referencing:)
-   - [Bibtex example format, for latex users: ](#bibtex-example-format,-for-latex-users:)
+   - [Example using Harvard referencing: ](#example-using-harvard-referencing)
+   - [Bibtex example format, for latex users: ](#bibtex-example-format-for-latex-users)
 - [Working example 1](#working-example-1)
    - [How does ChatGPT work and why does it lie? ](#how-does-chatgpt-work-and-why-does-it-lie)
 - [Checklist of guidelines ](#checklist-of-guidelines)
@@ -136,7 +137,7 @@ Use of generative AI tools should in all circumstances be ethical and guided by 
 > The following ethical principles have to be implemented whenever an output of generative AI tools is used and disseminated within and beyond your academic journey, particularly when disseminating outputs to a wider audience and developing new applications and tools using these tools. 
 
 
-### Ethical principles for use of generative AI tools:  
+### Ethical principles for use of generative AI tools
 **A. Protect autonomy.**	Ensure your autonomy when assessing and using an output of any form. Not understanding the limitations of generative AI tools can lead to blindly trusting an output, relying on false information, risking disseminating misinformation, magnifying bias, etc with detrimental effects to you and the wider communities. 
 
 **B. Ensure transparency and explainability.**
@@ -199,8 +200,8 @@ A checklist to help you follow the guidelines and set of rules stated in Tier 2 
 The author suggests the following:
 -	Explore generative AI tools (ChatGPT, Bard, etc) to better understand their limitations and flaws.
 -	Try out your assignments and exam questions as input and evaluate the output. 
--	Typically, generative AI tools provide a surface coverage of a topic. Consider revising marking criteria to refer to quality of analysis, depth of coverage, explanation of workflows and positioning results in the wider context. Also, 
--	Consider running tutorial sessions with your students to explore potential applications and limitations of these tools in your areas. You can also introduce the AI Code of Conduct and use the working examples as interactive activities for students to assess whether a submission should be referred for academic malpractice and why. You can use the annotated example (in section Working example 1) as a model answer. 
+-	Typically, generative AI tools provide a surface coverage of a topic. Consider revising marking criteria to refer to quality of analysis, depth of coverage, explanation of workflows and positioning results in the wider context. 
+-	Consider running tutorial sessions with your students to explore potential applications and limitations of these tools in your areas. You can also introduce the AI Code of Conduct and use the working examples as interactive activities for students to assess whether a submission should be referred for academic malpractice and why. You can use the annotated example (in section 'Working example 1') as a model answer. 
 -	We are thinking to create a forum to share resources, best practice and examples – let us know if you think would be useful and we can set it up. 
 
 # Acknowledgements
