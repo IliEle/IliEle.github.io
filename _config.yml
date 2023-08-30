@@ -1,6 +1,18 @@
 baseurl: '/'
 permalink: pretty
 title: 'Iliada Eleftheriou'
+tagline: 'TODO'
+description: 'TODO'
+url: 'https://iliada-eleftheriou.com'
+author:
+  twitter: 
+    username: 'iliadaele'
+    card: summary
+social:
+  name: Iliada Eleftheriou
+  links:
+    - https://www.twitter.com/iliadaEle
+    - medium TODO
 
 logo:
   mobile: "images/favicon-32x32.png"
@@ -37,6 +49,7 @@ sass:
 
 plugins:
   - jekyll-environment-variables
+  - jekyll-seo-tag
 
 exclude:
   - Gemfile
