@@ -2,7 +2,7 @@
 title: "The anatomy of scientific writing"
 date: 2023-08-18T12:33:46+10:00
 datePublished: Aug 23
-minutes: 1
+minutes: 19
 weight: 2
 imageRef: /images/patrick-tomasso-Oaqk7qqNh_c-unsplash.jpg
 

@@ -20,14 +20,39 @@ bodyClass: "page-home"
     </div>
   </div>
 </div>
-<hr class="mb-3"/>
 
-<div class="row justify-content-center">
+<hr class="mb-3"/>
+<div class="container">
+  <div class="row justify-content-start">
+    <div class="col-12 col-md-7 col-lg-6 order-2 order-md-1">
+      <h1>Spotlight:</h1>
+    </div>
+  </div>
+</div>
+
+<div class="card mb-3" >
+  <div class="row no-gutters">
+    <div class="col-md-8">
+      <div class="card-body">
+        <h5 class="card-title">AI Code of Conduct</h5>
+        <p class="card-text">The AI Code of Conduct provides a set of ground rules to 
+          embrace the incorporation of generative AI tools (like ChatGPT and Bard) in the 
+          students' learning journey in higher education. The new version of the AI Code of 
+          Conduct is live and introduces a new tiered system of three levels of guidelines 
+          for the individual use of generative AI and the safe and ethical use 
+          in education. </p>
+        <a href="/AICodeOfConduct/" class="btn btn-primary">Read more</a>
+      </div>
+    </div>
+    <div class="col-md-4">
+      <img src="images/mel-poole-ToI01Apo4Pk-unsplash.jpg" class="card-img-top" alt="Beatrix">
+    </div>
+  </div>
+</div>
+
+<!-- <div class="row justify-content-center">
   <div class="card" style="max-width: 540px;">
     <div class="row">
-      <div class="col-md-12">
-        <img src="images/mel-poole-ToI01Apo4Pk-unsplash.jpg" class="card-img-top" alt="Beatrix">
-      </div>
       <div class="col-md-12">
         <div class="card-body">
           <h5 class="card-title">AI Code of Conduct</h5>
@@ -35,9 +60,12 @@ bodyClass: "page-home"
           <a href="/AICodeOfConduct/" class="btn btn-primary">Read more</a>
         </div>
       </div>
+      <div class="col-md-12">
+        <img src="images/mel-poole-ToI01Apo4Pk-unsplash.jpg" class="card-img-top" alt="Beatrix">
+      </div>
     </div>
   </div>
-</div>
+</div> -->
 <hr class="mb-3"/>
 
 <div class="container">
@@ -47,6 +75,8 @@ bodyClass: "page-home"
     </div>
   </div>
 </div>
+
+
 <div class="card-deck row justify-content-center">
   {% assign limit = site.home.limit_blogposts | default: 6 %}
   {% for blogpost in site.blogposts limit: limit %}
