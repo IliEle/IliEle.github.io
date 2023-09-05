@@ -1,12 +1,14 @@
 ---
-title: "AI Code of Conduct V1.4"
-date: 2023-08-18T12:33:46+10:00
+title: "AI Code of Conduct new updates - V1.4"
+datePublished: Aug 23
+minutes: 1
 weight: 1
+imageRef: /images/javier-unsplash.jpg
 ---
 
 The new version of the AI Code of Conduct is live and introduces a new tiered system of three levels of guidelines for the safe and ethical use of generative AI tools. 
 
-![AI Code of Conduct V1.4](/images/javier-unsplash.jpg)
+![img](/images/javier-unsplash.jpg)
 
 The three tiers provide guidelines for the individual use of generative AI tools emphasising that any output should not be blindly trusted and **always apply critical thinking**
 

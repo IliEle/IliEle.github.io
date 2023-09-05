@@ -1,0 +1,11 @@
+---- Must do:
+- code of conduct image open in new tab enlarged. 
+
+---- M:
+- Change favicon
+
+
+---- WBN:
+- In home page view all blogs' button touches the blue ribbon 
+- Add linkedin in social 
+- hover in img for attribution

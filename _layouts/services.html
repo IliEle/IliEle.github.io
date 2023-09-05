@@ -24,10 +24,20 @@ bodyClass: "page-services"
     <div class="col-12 col-md-6 mb-3">
       <div class="service service-summary">
         <div class="service-content">
-          <h2 class="service-title">
+          
+          <div class="card" style="width: 18rem;">
+            <img src="{{ service.imageRef }}" class="card-img-top" alt="...">
+            <div class="card-body">
+              <h3 class="card-title">{{ service.title }}</h3>
+              <p class="card-text">{{ service.content | markdownify | strip_html | truncate: 100 }}</p>
+              <a href="{{ service.url | relative_url }}" class="btn btn-primary">Read more</a>
+            </div>
+          </div>
+          
+          <!-- <h2 class="service-title">
             <a href="{{ service.url | relative_url }}">{{ service.title }}</a>
           </h2>
-          <p>{{ service.content | markdownify | strip_html | truncate: 100 }}</p>
+          <p>{{ service.content | markdownify | strip_html | truncate: 100 }}</p> -->
         </div>
       </div>
     </div>
