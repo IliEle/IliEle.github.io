@@ -1,6 +1,6 @@
 ---
 title: Blog posts
-layout: services
+layout: blogposts
 description: Blog posts desc
 intro_image: "images/illustrations/jess-unsplash.jpg"
 intro_image_absolute: true

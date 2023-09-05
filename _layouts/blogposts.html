@@ -1,6 +1,6 @@
 ---
 layout: default
-bodyClass: "page-services"
+bodyClass: "page-blogposts"
 ---
 
 <div class="intro">
@@ -20,24 +20,24 @@ bodyClass: "page-services"
 
 <div class="container pt-6 pb-6">
   <div class="row">
-    {% for service in site.services %}
+    {% for blogpost in site.blogposts %}
     <div class="col-12 col-md-6 mb-3">
-      <div class="service service-summary">
-        <div class="service-content">
+      <div class="blogpost blogpost-summary">
+        <div class="blogpost-content">
           
           <div class="card" style="width: 18rem;">
-            <img src="{{ service.imageRef }}" class="card-img-top" alt="...">
+            <img src="{{ blogpost.imageRef }}" class="card-img-top" alt="...">
             <div class="card-body">
-              <h3 class="card-title">{{ service.title }}</h3>
-              <p class="card-text">{{ service.content | markdownify | strip_html | truncate: 100 }}</p>
-              <a href="{{ service.url | relative_url }}" class="btn btn-primary">Read more</a>
+              <h3 class="card-title">{{ blogpost.title }}</h3>
+              <p class="card-text">{{ blogpost.content | markdownify | strip_html | truncate: 100 }}</p>
+              <a href="{{ blogpost.url | relative_url }}" class="btn btn-primary">Read more</a>
             </div>
           </div>
           
-          <!-- <h2 class="service-title">
-            <a href="{{ service.url | relative_url }}">{{ service.title }}</a>
+          <!-- <h2 class="blogpost-title">
+            <a href="{{ blogpost.url | relative_url }}">{{ blogpost.title }}</a>
           </h2>
-          <p>{{ service.content | markdownify | strip_html | truncate: 100 }}</p> -->
+          <p>{{ blogpost.content | markdownify | strip_html | truncate: 100 }}</p> -->
         </div>
       </div>
     </div>
