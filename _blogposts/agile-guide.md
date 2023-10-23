@@ -21,8 +21,8 @@ Agile is breaking up this linear process and follows an **iterative and incremen
 
 Agile also introduces multiple opportunities of **reflection** and gathering feedback to accommodate for any changes in the immediate environment in which the new system will be embedded in. 
 
-<a href="/images/agileguide/scrum-iteration.jpg" target="_blank">
-  <img src="/images/agileguide/scrum-iteration.jpg" alt="Typical data science project phases in an Agile iteration.">
+<a href="/images/agileguide/Scrum-iteration.jpg" target="_blank">
+  <img src="/images/agileguide/Scrum-iteration.jpg" alt="Typical data science project phases in an Agile iteration.">
 </a>
 *Figure 1: Typical data science project phases in an Agile iteration.*
 
