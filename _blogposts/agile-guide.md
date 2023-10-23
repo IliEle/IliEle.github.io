@@ -122,7 +122,7 @@ The Scrum framework helps teams implement the Agile manifesto (4 rules and 12 pr
 - **Increment:** all the functionality built and delivered in all previous sprints.
 - **Sprint retrospective:** an internal meeting with only the scrum team to reflect on tools, platforms, workflows, progress, etc. 
 
-<a href="/images/agileguide/scrum-framework-9.29.23.png" target="_blank">
+<a href="https://iliada-eleftheriou.com/images/agileguide/scrum-framework-9.29.23.png" target="_blank">
   <img src="/images/agileguide/Scrum-framework-9.29.23.png" alt="Source: Scrum.org">
 </a>
 *Figure 3: The Scrum rituals and artefacts in a sprint cycle of development, source: [Scrum.org](https://scrum.org){:target="_blank"}.*
