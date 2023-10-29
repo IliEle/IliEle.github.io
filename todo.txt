@@ -1,8 +1,9 @@
 ---- Must do:
-- code of conduct image open in new tab enlarged. 
 
 ---- M:
 - Change favicon
+- SEO 
+- G analytics
 
 
 ---- WBN:

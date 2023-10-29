@@ -108,7 +108,10 @@ The AI Code of Conduct is structured into 3 tiers and summarised in Figure 3.
 - **Tier II:** ground rules for use of generative AI tools in the **learning journey**, including assessment.
 - **Tier III:** ethical use of generative AI tools including principles to consider and implement when using generative AI tools, when **developing new applications** using these tools, or when **disseminating outputs** in a wider audience. 
  
-![](../images/aicode/AICodeOfConduct.png)
+
+<a href="/images/aicode/AICodeOfConduct.png" target="_blank">
+  <img src="/images/aicode/AICodeOfConduct.png" alt="AI Code of Conduct: Three tiers of guidelines">
+</a>
 *Figure 3: AI Code of Conduct: Three tiers for the safe and ethical use of generative AI tools in the learning journey.*
 
 
