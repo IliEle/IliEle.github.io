@@ -206,7 +206,7 @@ User stories don't capture **'how'** a functionality will be developed but **'wh
 
 > - Collect your requirements in the form of user stories. 
 > - Link your user stories to the personas you created. 
-> - Refine your user stories: Break-down Epic user stories into smaller slices of functionality 
+> - Refine your user stories: Break-down Epic user stories into smaller slices of functionality.
 
 ## Kanban boards
 'Kanban' is a japanese term for billboard and also describes a popular Agile framework that visualises all work items (everything that needs to be completed) on a single board, called a Kanban board. Kanban boards allow all team members to see the state of every piece of work at any time. 
@@ -306,7 +306,14 @@ Acceptance criteria don’t offer a solution on how the functionality will be de
 
 ## Sprint testing
 
-Types of testing:
+When designing our test cases, we usually consider the following cases:
+- Valid cases 
+- Invalid cases 
+- Outliers 
+
+There are several types of testing each testing various aspects of the codebase and project. Some of the most popular types of testing are [^1]: 
+
+[^1]: The items in the list of types of testing have been expanded using generative AI tools. All the content has been evaluated and modified (wherever appropriate) by the author. 
 
 Unit Testing:
 - Purpose: Unit testing verifies the correctness of individual code units, such as functions or methods, in isolation. It is focused on ensuring that each unit of code works as intended.
@@ -318,13 +325,18 @@ Integration Testing:
 - Scope: Testing interactions and data flow between integrated components.
 - Key Concepts: Integration test suites, interfaces, data exchange.
 
+Acceptance Testing:
+- Purpose: Acceptance testing is performed to determine whether the software meets specific requirements and is ready for production deployment. It validates that the software satisfies business needs through completion of the acceptance criteria set against user story in the beginning of the sprint. 
+- Scope: End-to-end testing of the entire system, often performed by stakeholders or users.
+- Key Concepts: acceptance criteria, final validation.
+
 Test-Driven Development (TDD):
 - Purpose: TDD is a development methodology where developers write tests before writing the actual code. It promotes a cycle of "red-green-refactor," helping to design and verify code incrementally.
 - Scope: TDD is applied at the unit level, writing tests for specific features or functions.
 - Key Concepts: Red-Green-Refactor cycle, test-first development, continuous testing.
 
 Behavior-Driven Development (BDD):
-- Purpose: BDD extends TDD by focusing on the expected behavior of the software from a user's perspective. It promotes collaboration between developers, testers, and non-technical stakeholders.
+- Purpose: BDD extends TDD by focusing on the expected behavior of the software from a user's perspective. It promotes collaboration between developers, testers, and non-technical stakeholders through a non technical language called Gherkin that resembles the structure of a user story and can easily be read and written by non-technical people.
 - Scope: BDD involves defining and testing behavior or scenarios for the software's functionality.
 - Key Concepts: Gherkin syntax (Given-When-Then), feature files, executable specifications.
 
@@ -333,20 +345,15 @@ A/B Testing:
 - Scope: Typically used for assessing the impact of changes to the user interface or user experience.
 - Key Concepts: Control group, variant groups, statistical analysis.
 
-Acceptance Testing:
-- Purpose: Acceptance testing is performed to determine whether the software meets specific requirements and is ready for production deployment. It validates that the software satisfies business needs.
-- Scope: End-to-end testing of the entire system, often performed by stakeholders or users.
-- Key Concepts: User acceptance testing (UAT), acceptance criteria, final validation.
-
 Black-Box Testing:
 - Purpose: Black-box testing focuses on the functionality of the software without examining its internal code. Testers assess the software's inputs and outputs.
 - Scope: Treating the software as a "black box," testing without knowledge of its internal workings.
 - Key Concepts: Test cases based on specifications, functional testing.
 
 Regression Testing:
-- Purpose: Regression testing ensures that new code changes do not adversely affect existing functionality. It helps maintain the stability of the software.
-- Scope: Re-testing core functionality and critical paths after code updates.
-- Key Concepts: Test suites, automated testing, version control.
+- Purpose: Regression testing ensures that new code changes do not adversely affect existing functionality. It helps maintain the stability of the new tool.
+- Scope: Re-testing core functionality and critical paths after code addition and updates.
+- Key Concepts: Use of test suites, automated testing. 
 
 Stress Testing:
 - Purpose: Stress testing evaluates the system's stability and performance under extreme conditions, such as high loads or resource constraints.
@@ -354,24 +361,32 @@ Stress Testing:
 - Key Concepts: Load testing, performance benchmarks, system limits.
 
 Usability Testing:
-- Purpose: Usability testing assesses the software's user-friendliness and overall user experience. It focuses on ensuring that users can interact with the software effectively.
-- Scope: Evaluating the software's interface, navigation, and user interactions.
+- Purpose: Usability testing assesses the software's user-friendliness and overall user experience. It focuses on ensuring that users can interact with the software effectively and intuitively.
+- Scope: Evaluating the software's interface, navigation, user interactions and user journeys.
 - Key Concepts: User feedback, user experience (UX), user-centered design.
+
+> - Decide your groups testing strategy - which combination of types of testing are suitable to test the functionality that you will/have created in this sprint? 
+> - Revisit the acceptance criteria you set in the sprint planning meeting and design your test cases. 
+> - Create a test suite, if you don't already have one, and add new unit tests for the new functionality you have developed.
+> - Run each test separately and make sure it runs.
+> - Run the entire test suite to ensure there are no conflicts and that the components integrate with no issues. 
+> - Run test coverage to identify gaps in your testing design.
 
 ## Sprint review and deployment
 The team demonstrates completed functionality of the product they've built (also called the increment) during the sprint to key stakeholders and end users. This is an informal event in which the team gathers feedback on the increment, ensures alignment with the product vision and end goal, refines requirements and makes adjustments for the next sprint.
 
 The outcome of the sprint review meeting is a revised Product Backlog that defines the probable Sprint Backlog items for the next Sprint. The Product Backlog may also be adjusted overall to meet new opportunities. 
 
+>  During a sprint review: 
+>  - The Product Owner explains what Product Backlog items have been “Done” and what has not been “Done” 
+>  - The Development Team discusses what went well during the Sprint, what problems it ran into, and how those problems were solved 
+>  - The Development Team demonstrates the work that it was “Done” and answers questions about the Increment 
+>  - The entire group collaborates on what to do next, so that the Sprint Review provides valuable input to subsequent Sprint Planning 
+>  - Review of how the wider environment or potential use of the product might have changed and what is the most valuable thing to do next.
 
 
 ## Sprint retrospective
 The goal of this internal informal meeting is to reflect on how the team worked together in this sprint and identify actionable steps for improvement. The team reflects on: processes, team culture, outcomes, tools and platforms, etc. 
-
-The retrospective (also known as retro) answers three main questions:
-- What went well?
-- What could have gone better?
-- What to change?
 
 Strategies for retrospectives: 
 - Start - stop - continue
@@ -379,7 +394,17 @@ Strategies for retrospectives:
 
 The outcome of the retro meeting is a list of actions, or changes that the team agreed to take on board in the next iteration.
 
+> During the retrospective (also known as retro) the Agile team reflects on the three main questions:
+>  - What went well?
+>  - What could have gone better?
+>  - What to change?
 
+> Then, the team creates a list of actions/changes that unanimously decide to take on board in the next iteration. Each item is usually assigned to a particular team member and the team might also set a milestone if needed. 
+
+<a href="/images/agileguide/retro.jpg" target="_blank">
+  <img src="/images/agileguide/retro.jpg" alt="Agile retrospective structure">
+</a>
+*Figure 7: A board created with the Miro online tool to capture the structure of an Agile retrospective meeting.*
 
 ## Evaluation and write up 
 See more information on the anatomy of scientific writing, and a template to help you structure your findings [here](/blogposts/scientific-writing){:target="_blank"}.
@@ -388,9 +413,12 @@ See more information on the anatomy of scientific writing, and a template to hel
 # Collaborating with Git
 // More information on the use of Git will be available soon.  
 
-# Download checklist
+# Spotted a mistake? 
+Did you find this guide useful, or spotted any mispellings? Any feedback and ideas for expansion are more than welcome.  
+
+<!-- # Download checklist
 You can download a word document with a compiled checklist of all the phases described in this guide to help you form, manage and develop your new data science project. 
-> [Download checklist](/downloads/Agile_checklist_V1_1.docx){:target="_blank"}
+> [Download checklist](/downloads/Agile_checklist_V1_1.docx){:target="_blank"} -->
 
 # Versions
 <!-- https://www.tablesgenerator.com/markdown_tables -->
@@ -398,6 +426,7 @@ You can download a word document with a compiled checklist of all the phases des
 |     Version    |     Date             |     Updates                                                                                             |
 |----------------|----------------------|---------------------------------------------------------------------------------------------------------|
 |     V1.1       |     October 2023    |     Guide created.                                                                                       |
+|     V1.2       |     October 2023    |     Updated and expanded Sprint Review and Retro.       
 
 
 
