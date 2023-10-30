@@ -8,5 +8,10 @@
     "name": "Twitter",
     "link": "https://twitter.com/iliadaele",
     "image": "images/social/twitter.svg"
+  },
+  {
+    "name": "LinkedIn",
+    "link": "https://uk.linkedin.com/in/iliada-eleftheriou",
+    "image": "images/social/linkedin.svg"
   }
 ]

@@ -1,12 +1,9 @@
 ---- Must do:
 
----- M:
+---- SD:
 - Change favicon
 - SEO 
 - G analytics
 
-
 ---- WBN:
-- In home page view all blogs' button touches the blue ribbon 
-- Add linkedin in social 
 - hover in img for attribution

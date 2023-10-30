@@ -9,7 +9,6 @@ School of Health Sciences
 The University of Manchester  
 Stopford Building  
 
-Tel: +44 161 27 55051
 
 <!--TODO: LinkedIn, Twitter, RG, Github. -->
 
